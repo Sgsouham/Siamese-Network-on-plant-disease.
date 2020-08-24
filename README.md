@@ -1,3 +1,3 @@
-## This repo contains a notebook about my kaggle contest submission.
+## This repo contains a notebook about a small test I am performing
 
-It is from the latest Kaggle Contest SIIM Melanoma Classification 
+It uses a plant disease dataset from kaggle.
